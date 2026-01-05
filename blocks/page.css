@@ -1,0 +1,15 @@
+.page {
+    background-color: #1E1E24;
+    color: #E0E0E0;
+    font-family: 'inter', sans-serif;
+    font-weight: 400;
+}
+
+.page__size {
+    width: 100%;
+    max-width: 100%;
+    min-width: 320px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}

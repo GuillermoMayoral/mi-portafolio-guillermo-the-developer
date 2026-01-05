@@ -1,0 +1,16 @@
+.content {
+    margin-top: 320px;
+}
+
+@media (min-width: 544px) {
+    .content {
+        margin-left: 190px;
+        margin-top: 0;
+    }
+}
+
+@media (min-width: 880px) {
+    .content {
+        margin-left: 220px;
+    }
+}
